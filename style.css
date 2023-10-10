@@ -1,0 +1,19 @@
+* {
+    font-family: Times, monospace, serif;
+}
+
+html {
+    font-size: 18px;
+}
+
+.first {
+    font-size: 16px;
+}
+
+.second {
+    font-size: 2rem;
+}
+
+.third {
+    font-size: 1.5em;
+}
