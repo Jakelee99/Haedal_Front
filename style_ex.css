@@ -1,0 +1,25 @@
+* {
+    font-family: Times, monospace, serif;
+}
+
+html {
+    font-size: 16px;
+}
+
+.title-container {
+    font-size: 32px;
+}
+
+#subtitle {
+    color: chocolate;
+    font-size: 1rem;
+}
+
+.test {
+    height: 100px;
+    width: 100px;
+    background-color: darkgreen;
+    padding: 100px;
+    margin: 100px;
+    border: 1px solid red;
+}

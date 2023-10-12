@@ -1,19 +1,34 @@
-* {
-    font-family: Times, monospace, serif;
+body {
+    background-color: bisque;
 }
 
-html {
-    font-size: 18px;
+#title {
+    color: chocolate;
+    font-size: 50px;
 }
 
-.first {
-    font-size: 16px;
+#subtitle1,
+#subtitle2,
+#subtitle3 {
+    font-size: 20px;
+    color: rgb(119, 115, 0);
 }
 
-.second {
-    font-size: 2rem;
+table {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
-.third {
-    font-size: 1.5em;
+th,
+td {
+    border: 1px solid #444444;
+}
+
+.subtitle4 {
+    font-size: 17px;
+}
+
+.gun {
+    border: 1px solid red;
 }
